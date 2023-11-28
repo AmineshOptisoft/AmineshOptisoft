@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aminesh Verma</h1>
 <h3 align="center">I'm a Full-Stack Developer with over 8 years of experience working with both MEAN and LAMP stacks, specializing in web and app development.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
