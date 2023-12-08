@@ -16,13 +16,14 @@ Experienced software developer with a focus on front-end design, CSS, and respon
 - Android and iOS app development.
 
 ### Skills & Tools
-- ![Node.js](https://optisoft.in/assets/img/icons/Node-js.png) **Node.js & Express.js**: Server-side solutions, RESTful APIs, real-time apps.
-- ![React.js](https://optisoft.in/assets/img/icons/react.png) **React.js**: Dynamic, interactive front-end experiences.
-- ![MongoDB](https://optisoft.in/assets/img/icons/mongodb.png) **MongoDB**: High-performance database solutions.
-- ![PHP](https://optisoft.in/assets/img/icons/PHP.png) **PHP**: Integration and functionality in both new and legacy systems.
+- <img src="https://optisoft.in/assets/img/icons/Node-js.png" width="30" height="30"> **Node.js & Express.js**: Server-side solutions, RESTful APIs, real-time apps.
+- <img src="https://optisoft.in/assets/img/icons/react.png" width="30" height="30"> **React.js**: Dynamic, interactive front-end experiences.
+- <img src="https://optisoft.in/assets/img/icons/mongodb.png" width="30" height="30"> **MongoDB**: High-performance database solutions.
+- <img src="https://optisoft.in/assets/img/icons/PHP.png" width="30" height="30"> **PHP**: Integration and functionality in both new and legacy systems.
 - GitHub, Bitbucket, Heroku, Docker, AWS.
 - Trello, JIRA, Asana, Zeplin.
 - Proficient in Ubuntu, OSX, Windows.
 - Design tools: Sketch, Photoshop.
+
 
 *Looking forward to collaborating on innovative projects and driving technological advancement.*
