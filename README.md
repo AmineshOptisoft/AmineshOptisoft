@@ -16,10 +16,10 @@ Experienced software developer with a focus on front-end design, CSS, and respon
 - Android and iOS app development.
 
 ### Skills & Tools
-- ![Node.js](icon-link) **Node.js & Express.js**: Server-side solutions, RESTful APIs, real-time apps.
-- ![React.js](icon-link) **React.js**: Dynamic, interactive front-end experiences.
-- ![MongoDB](icon-link) **MongoDB**: High-performance database solutions.
-- ![PHP](icon-link) **PHP**: Integration and functionality in both new and legacy systems.
+- ![Node.js](https://optisoft.in/assets/img/icons/Node-js.png) **Node.js & Express.js**: Server-side solutions, RESTful APIs, real-time apps.
+- ![React.js](https://optisoft.in/assets/img/icons/react.png) **React.js**: Dynamic, interactive front-end experiences.
+- ![MongoDB](https://optisoft.in/assets/img/icons/mongodb.png) **MongoDB**: High-performance database solutions.
+- ![PHP](https://optisoft.in/assets/img/icons/PHP.png) **PHP**: Integration and functionality in both new and legacy systems.
 - GitHub, Bitbucket, Heroku, Docker, AWS.
 - Trello, JIRA, Asana, Zeplin.
 - Proficient in Ubuntu, OSX, Windows.
