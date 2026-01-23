@@ -4,10 +4,7 @@
 ### About Me
 Experienced software developer with a focus on front-end design, CSS, and responsive web design. Proficient in Hindi and English, I am a Sun Certified Enterprise Architect for Java 2EE. My expertise includes MEAN and LAMP stacks, API development, as well as Android and iOS app development. Skilled in CRM systems like HubSpot, Vtiger, and Kissmetrics.
 
-### Professional Experience
-**OPTISOFT BUSINESS SOLUTIONS PVT LTD**
-- Specialization in SEO, web design, and development.
-- Committed to quality management aligning with ISO 9001:2008 standards.
+
 
 **Services Offered**
 - CRM/dashboard development.
