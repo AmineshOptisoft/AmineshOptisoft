@@ -1,6 +1,5 @@
 # Aminesh Verma
 
-## Founder & CEO at OPTISOFT | Co-Founder at 3VA LABS
 
 ### About Me
 Experienced software developer with a focus on front-end design, CSS, and responsive web design. Proficient in Hindi and English, I am a Sun Certified Enterprise Architect for Java 2EE. My expertise includes MEAN and LAMP stacks, API development, as well as Android and iOS app development. Skilled in CRM systems like HubSpot, Vtiger, and Kissmetrics.
